@@ -7,11 +7,11 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the implementation of a **Secured Web Server** using Amazon Web Services (AWS).
+This project demonstrates the implementation of a **Secured Web Server** using **Amazon Web Services (AWS)**.
 
 The architecture is created using AWS resources including a custom **VPC, public and private subnets, Internet Gateway, Route Tables, EC2 instances, Security Groups, Target Group, and Application Load Balancer**.
 
-The main objective is to deploy web servers on different EC2 instances and use an Application Load Balancer to access and distribute requests between the servers.
+The main objective is to deploy web servers on different EC2 instances and use an **Application Load Balancer** to access and distribute requests between the servers.
 
 ---
 
@@ -39,7 +39,7 @@ The main objective is to deploy web servers on different EC2 instances and use a
                               |
                               v
                   +------------------------+
-                  | Application Load      |
+                  | Application Load       |
                   |      Balancer          |
                   +-----------+------------+
                               |
